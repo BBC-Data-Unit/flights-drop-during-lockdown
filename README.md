@@ -16,6 +16,12 @@ The Shared Data Unit makes data journalism available to news organisations acros
 
 * The Sun: [ON THE GROUND Airports across the UK at risk of permanent closure as flights drop by 90 per cent](https://www.thesun.co.uk/travel/11444902/airports-uk-closed-fold-coronavirus/) *21 April 2020*
 * The Scotsman: [These are the UK airports with the biggest drop in traffic since lockdown began](https://www.scotsman.com/read-this/these-are-uk-airports-biggest-drop-traffic-lockdown-began-2545302) *21 April 2020*
+* Pontefract & Castleford Express: [These are the UK airports with the biggest drop in traffic since lockdown began](https://www.pontefractandcastlefordexpress.co.uk/read-this/these-are-uk-airports-biggest-drop-traffic-lockdown-began-2545302) *21 April 2020*
+* Edinburgh Evening News: [Edinburgh Airport handling just 3% of usual flights](https://www.edinburghnews.scotsman.com/news/transport/edinburgh-airport-handling-just-3-usual-flights-2544868) *21 April 2020*
+* Edinburgh Live: [Just 16 flights took off from Edinburgh Airport last week - a 97% drop in take-offs](https://www.edinburghlive.co.uk/news/edinburgh-news/just-16-flights-took-edinburgh-18126943) *21 April 2020*
+* Fife Today: [Edinburgh and Glasgow airports handling less than 10 per cent of usual flights](https://www.fifetoday.co.uk/news/transport/edinburgh-and-glasgow-airports-handling-less-10-cent-usual-flights-2544913) *21 April 2020*
+* Lancs Live: [UK's biggest airports see huge drop in flights since pandemic](https://www.lancs.live/news/uk-world-news/uks-biggest-airports-see-huge-18123456) *21 April 2020*
+* Nottinghamshire Live: [How East Midlands Airport is coping with 'rapid' decline in passenger flights](https://www.nottinghampost.com/news/local-news/how-east-midlands-airport-coping-4063743) *21 April 2020*
 * Birmingham Live: [Flights grounded and just eight departures a week - inside Birmingham Airport during coronavirus crisis](https://www.birminghammail.co.uk/news/midlands-news/flights-grounded-just-eight-departures-18125673) *22 April 2020*
 * Coventry Live: [Birmingham Airport on lockdown: What's happening with 98% of flights grounded](https://www.coventrytelegraph.net/news/coventry-news/birmingham-airport-lockdown-whats-happening-18128763) *22 April 2020*
 * Glasgow Evening Times: [Glasgow Airport flights drop by 97% due to coronavirus lockdown](https://www.glasgowtimes.co.uk/news/18396408.glasgow-airport-flights-drop-97-due-coronavirus-lockdown/) *22 April 2020*
