@@ -35,6 +35,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Herts Live: [Hertfordshire coronavirus: Huge drop in flights at Luton Airport and Stansted Airport as nine out of 10 UK flights are grounded](https://www.hertfordshiremercury.co.uk/news/hertfordshire-coronavirus-huge-drop-flights-4064708) *22 April 2020*
 * The Scarborough News: [Figures show impact of lockdown on Leeds Bradford Airport as no flights take off for whole week](https://www.thescarboroughnews.co.uk/news/transport/figures-show-impact-lockdown-leeds-bradford-airport-no-flights-take-whole-week-2547887) *23 April 2020*
 * Wigan Today: [Most flights from region's airports have been grounded](https://www.wigantoday.net/business/most-flights-regions-airports-have-been-grounded-2548467) *24 April 2020*
+* Chronicle Live: [Newcastle Airport down to four flights a week as Covid-19 impacts commercial air travel](https://www.chroniclelive.co.uk/news/north-east-news/newcastle-airport-four-flights-coronavirus-18139729) *25 April 2020*
 
 ## Get the data 
 
