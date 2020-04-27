@@ -36,10 +36,17 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * The Scarborough News: [Figures show impact of lockdown on Leeds Bradford Airport as no flights take off for whole week](https://www.thescarboroughnews.co.uk/news/transport/figures-show-impact-lockdown-leeds-bradford-airport-no-flights-take-whole-week-2547887) *23 April 2020*
 * Wigan Today: [Most flights from region's airports have been grounded](https://www.wigantoday.net/business/most-flights-regions-airports-have-been-grounded-2548467) *24 April 2020*
 
+## Get the data 
+
+* [UK-wide data](https://docs.google.com/spreadsheets/d/1A7AvId5lHR5bCrgn-EotezP2RquzzeXvm8WBtiKldvY/edit#gid=0)
+
 ## Visualisation
 
 * Line chart: Decline in tracked departures from the 10 biggest UK airports
 
-## Here is the data 
 
-* [UK-wide data](https://docs.google.com/spreadsheets/d/1A7AvId5lHR5bCrgn-EotezP2RquzzeXvm8WBtiKldvY/edit#gid=0)
+## Related repos
+
+You can [find all coronavirus-related stories by the BBC data units tagged 'coronavirus' here](https://github.com/search?q=topic%3Acoronavirus+org%3ABBC-Data-Unit&type=Repositories)
+
+
